@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloLensSystemInformationCollectorTest", "HoloLensSystemInformationCollectorTest\HoloLensSystemInformationCollectorTest.csproj", "{F39FB6C8-66FD-4320-9274-7806D7C98766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolographicGeometryShader", "HolographicGeometryShader\HolographicGeometryShader.csproj", "{C22C91BA-A089-415F-A142-314881FEE672}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,18 @@ Global
 		{F39FB6C8-66FD-4320-9274-7806D7C98766}.Release|x86.ActiveCfg = Release|x86
 		{F39FB6C8-66FD-4320-9274-7806D7C98766}.Release|x86.Build.0 = Release|x86
 		{F39FB6C8-66FD-4320-9274-7806D7C98766}.Release|x86.Deploy.0 = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|ARM.ActiveCfg = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|x64.ActiveCfg = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|x86.ActiveCfg = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|x86.Build.0 = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Debug|x86.Deploy.0 = Debug|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|Any CPU.ActiveCfg = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|ARM.ActiveCfg = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|x64.ActiveCfg = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|x86.ActiveCfg = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|x86.Build.0 = Release|x86
+		{C22C91BA-A089-415F-A142-314881FEE672}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
